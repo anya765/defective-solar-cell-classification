@@ -1,4 +1,4 @@
-# defective-solar-cell-classification
+# defective solar cell classification 🌞🪟
 
 In the installation and maintenance of solar cells, CNNs can help determine when a cell is defective and classify defective cells on a scale to recommend maintenance measures 
 
